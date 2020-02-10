@@ -125,6 +125,28 @@ Outra forma de facelo é `cfr Daniel Castelao`_.
 #doc en https://www.sphinx-doc.org/es/stable/rest.html
 
 
+Enlace a listas numeradas `Listas no numeradas`_
+
+Creamos una figura accediendo a una foto que hemos puesto en la carpeta static:
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. figure:: _static/carta1.jpg
+    :align: center
+
+    Este é o pe da imaxe
+
+
+    :download: `Baixate o ejemploSphinx1.rst` <source/ejemploShpinx1.rst>`_
+
+    .. note::
+        Esto es una nota
+
+    .. warning::
+        Cuidado !!!
+
+    .. versionchanged::
+        0.0.1
+
 
 
 
